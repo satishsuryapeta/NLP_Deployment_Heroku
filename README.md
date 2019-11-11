@@ -2,4 +2,4 @@
 
 Here is the demo
 
-https://satish1901nlp.herokuapp.com/predict
+https://satish1901nlp.herokuapp.com
